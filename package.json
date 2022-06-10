@@ -15,5 +15,26 @@
     "lint-staged": "^13.0.1",
     "morgan": "^1.10.0",
     "prettier": "^2.6.2"
-  }
+  },
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "Dev",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenthanhnguyen508111/Dev-Exp.git"
+  },
+  "keywords": [
+    "Dev",
+    "nthanhnguyenit"
+  ],
+  "author": "nthanhnguyenit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenthanhnguyen508111/Dev-Exp/issues"
+  },
+  "homepage": "https://github.com/nguyenthanhnguyen508111/Dev-Exp#readme"
 }
